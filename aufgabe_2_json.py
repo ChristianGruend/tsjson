@@ -22,4 +22,4 @@ elif frage == "konto":
     for number in balance: 
         if number > highest:
             highest = number
-    print("Der hoechste Kontostand betraegt:", highest)
+    print("Der hoechste Kontostand ist", highest)
